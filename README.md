@@ -6,9 +6,15 @@ Update the variable name so that it matches the food sprite image
 ## ENTREGAS
 
 Classroom: https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604
+
+
 Tarea makecode: https://classroom.github.com/classrooms/149103950-ull-mfp-aet-2324-alu0100904604/assignments/tarea2-tecnologia
+
+
 Aceptación tarea makecode en classroom: https://classroom.github.com/a/rlzi2P2-
-organización: https://github.com/ull-mfp-aet-2324-alu0100904604
+
+
+Organización: https://github.com/ull-mfp-aet-2324-alu0100904604
 
 
 ## Use this extension
